@@ -4,11 +4,12 @@ title: Hello World!
 date: 2024-09-11 12:00:00 
 categories: [Personal, Blog]
 tags: [Personal, Blog]
+pin: true
 ---
 
 ### Welcome
 
-Hello and welcome! I’m thrilled to have you here on my little corner of the internet, where I share my coding journey, knowledge base, and a growing repository of everything tech-related.
+Hello and welcome!, I’m thrilled to have you here on my little corner of the internet, where I share my coding journey, knowledge base, and a growing repository of everything tech-related.
 
 ### What's This Site All About?
 As a DevOps Engineer, I’m constantly learning, building, and fine-tuning my skills across various tools, frameworks, and programming languages. I created this site as a place to organize my coding knowledge, share practical insights, and document my learning process along the way.
