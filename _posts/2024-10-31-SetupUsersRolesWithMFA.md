@@ -5,7 +5,7 @@ date: 2024-11-01
 categories: AWS IAM AWSCLI Security
 ---
 
-In this post, we'll walk through setting up a restricted AWS user, creating an IAM role with permissions for resource creation, assigning the role to the user, configuring the AWS CLI, and optionally enabling MFA for secure access.
+In this scenario, we'll set up a restricted AWS user, creating an IAM role with permissions for resource creation, assigning the role to the user, configuring the AWS CLI, and optionally enabling MFA for secure access.
 
 ## 1. Setting up a User with No Permissions
 
