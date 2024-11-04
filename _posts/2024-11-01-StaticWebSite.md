@@ -62,4 +62,4 @@ In case the main website fails it redirects to an error page.
 
 ![Image](/assets/images/StaticWebSiteErrorResult.png)
 
-Resources: [Github](https://github.com/mrcpngn/hoststaticwebsite-aws-s3)
+Resources: [aws-s3-static-website](https://github.com/mrcpngn/mrcpngn.github.io.resources/tree/master/aws-s3-static-website)
